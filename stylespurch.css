@@ -1,0 +1,42 @@
+.Buy{
+    padding: 2px;
+    border: 4px;
+}
+.BuyOpts{
+    background: darkred;
+    padding: 5px;
+    border: 3px;
+    border-radius: 10px;
+}
+h1{
+    background: lightgray;
+    border: 3px;
+    border-radius: 10px;
+}
+h3{
+    background: lightgray;
+    border: 3px;
+    border-radius: 10px;
+
+}
+h4{
+    background: lightgray;
+    border: 3px;
+    border-radius: 10px;
+}
+label {
+  font-family: sans-serif;
+  font-size: 1rem;
+  padding-right: 10px;
+}
+select {
+    font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.9rem;
+  padding: 2px 5px;
+}
+#Copiaecola {
+    border: 2px;
+    border-color: crimson;
+    border-style: solid;
+    background: lightgray;
+}
